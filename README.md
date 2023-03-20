@@ -1,0 +1,4 @@
+```powershell
+npm run server
+```
+
